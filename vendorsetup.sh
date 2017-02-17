@@ -1,0 +1,2 @@
+add_lunch_combo sm_pmec2-userdebug
+add_lunch_combo sm_pmec2-eng
